@@ -18,3 +18,6 @@ func G(p **C.char) {
 	C.issue30527F(p, 1<<64-1, Z)
 
 }
+/*
+	修复BUG 完成
+/*
